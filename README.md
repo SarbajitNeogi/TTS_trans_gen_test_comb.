@@ -1,7 +1,10 @@
 # Text-to-Speech Model with FbTTS and gTTS
 
+### GTTS
 ![GTTS Logo](gTTS-converting-text-to-speech.ppm)
-![MMS-TTS Logo]()
+
+### MMS-TTS
+![MMS-TTS Logo](Multilingual-Speech-Text-Pretraining-We-pre-train-a-large-multilingual-speech-text.png)
 
 This project implements a Text-to-Speech (TTS) model leveraging both Facebook's FbTTS and Google's gTTS for generating high-quality speech from text inputs.
 
